@@ -7,8 +7,5 @@ public class App {
 
         travelContext.setStrategy(new LuxuryTravel());
         travelContext.executeBooking("Dubai");
-
-        travelContext.setStrategy(new BusinessTravel());
-        travelContext.executeBooking("New York");
     }
 }
