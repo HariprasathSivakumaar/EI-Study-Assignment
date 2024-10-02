@@ -33,13 +33,13 @@ The following commands are available for user interaction:
 
 1. Clone the repository:
    ```bash
-   git clone
-    ```
+   git clone https://github.com/HariprasathSivakumaar/EI-Study-Assignment.git
+   ```
 2. Change Directory:
-    ```bash
-   cd 
+   ```bash
+   cd EI-Study-Assignment\Exercise 2\src
    ```
 3. Run:
-    ```bash
-    java Main
-    ```
+   ```bash
+   java Main
+   ```
