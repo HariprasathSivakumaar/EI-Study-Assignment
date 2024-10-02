@@ -16,8 +16,14 @@ This project utilizes **Factory Method Design Pattern**, a type of Creational De
 ## How to run
 
 1. Clone the repository:
-   `git clone `
+   ```bash
+   git clone https://github.com/HariprasathSivakumaar/EI-Study-Assignment.git
+   ```
 2. Change directory:
-   `cd `
+   ```bash
+   cd EI-Study-Assignment\Exercise 1\Creational Design Patterns\Case 2
+   ```
 3. Run:
-   `java App`
+   ```bash
+   java App
+   ```

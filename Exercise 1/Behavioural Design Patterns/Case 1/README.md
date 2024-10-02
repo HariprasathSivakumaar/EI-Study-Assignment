@@ -10,8 +10,14 @@ This project utilizes **Observer Design Pattern**, a type of Behavioral Design P
 ## How to run
 
 1. Clone the repository:
-   `git clone `
+   ```bash
+   git clone https://github.com/HariprasathSivakumaar/EI-Study-Assignment.git
+   ```
 2. Change directory:
-   `cd `
+   ```bash
+   cd EI-Study-Assignment\Exercise 1\Behavioural Design Patterns\Case 1
+   ```
 3. Run the StockMarket class:
-   `java StockMarket`
+   ```bash
+   java StockMarket
+   ```

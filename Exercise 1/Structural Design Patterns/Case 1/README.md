@@ -10,8 +10,14 @@ This project utilizes **Adapter Design Pattern**, a type of Structural Design Pa
 ## How to run
 
 1. Clone the repository:
-   `git clone `
+   ```bash
+   git clone https://github.com/HariprasathSivakumaar/EI-Study-Assignment.git
+   ```
 2. Change directory:
-   `cd `
+   ```bash
+   cd EI-Study-Assignment\Exercise 1\Structural Design Patterns\Case 1
+   ```
 3. Run:
-   `java App`
+   ```bash
+   java App
+   ```

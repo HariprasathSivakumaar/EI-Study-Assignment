@@ -14,8 +14,14 @@ This project utilizes **Strategy Design Pattern**, a type of Behavioral Design P
 ## How to run
 
 1. Clone the repository:
-   `git clone `
+   ```bash
+   git clone https://github.com/HariprasathSivakumaar/EI-Study-Assignment.git
+   ```
 2. Change directory:
-   `cd `
+   ```bash
+   cd EI-Study-Assignment\Exercise 1\Behavioural Design Patterns\Case 2
+   ```
 3. Run:
-   `java App`
+   ```bash
+   java App
+   ```
